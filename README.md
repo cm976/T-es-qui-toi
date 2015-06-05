@@ -28,5 +28,7 @@ Voici quelques valeurs à rentrer dans la deuxième boite de dialogue pour vous 
 
 
 Vaisseaux n°56060 à 56069 : ~877300 à 877429
+
 Vaisseaux n°56067/56069/56070/56071/56072 : ~877430 à 877487
+
 Vaisseau n°56228 : dernier héro à 888009
