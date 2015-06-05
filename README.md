@@ -3,9 +3,9 @@ Script pour retrouver les membres d'un vaisseau mush.vg (Firefox)
 
 # Installation
 
-1) Téléchargez Greasemonkey pour Firefox 
+1) Téléchargez Greasemonkey pour Firefox : https://addons.mozilla.org/fr/firefox/addon/greasemonkey/
 
-2) Téléchargez le script ici : https://raw.githubusercontent.com/cm976/T-es-qui-toi/master/script.user.js
+2) Téléchargez le script : https://raw.githubusercontent.com/cm976/T-es-qui-toi/master/script.user.js
 
 # Utilisation
 
