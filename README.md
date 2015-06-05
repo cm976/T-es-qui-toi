@@ -19,7 +19,7 @@ Veuillez à désactiver le script jusqu'à l'étape 3.
 
 4) Remplissez les boites de dialogue puis sélectionnez mush.vg/tid/graph dans la liste déroulante de la page
 
-5) Le script (re)démarre après une dizaine de secondes... vous devrez surement vous y prendre à plusieurs fois pour retrouver tous vos membres (voir un seul...).
+5) Le script (re)démarre après une dizaine de secondes... vous devrez surement vous y prendre à plusieurs fois en revenant à l'étape 1) pour retrouver tous vos membres (voir un seul...) vu que le nombre de requêtes est limité...
 
 #Table de valeurs
 
